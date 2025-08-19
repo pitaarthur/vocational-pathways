@@ -18,11 +18,11 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 223 35% 15%;
 
-    /* Academic Blue Theme */
-    --primary: 223 87% 25%;
+    /* Academic Green Theme */
+    --primary: 142 76% 36%;
     --primary-foreground: 0 0% 98%;
-    --primary-light: 223 87% 85%;
-    --primary-glow: 223 87% 45%;
+    --primary-light: 142 69% 85%;
+    --primary-glow: 142 82% 50%;
 
     /* Success Gold */
     --secondary: 45 93% 58%;
@@ -39,18 +39,18 @@ All colors MUST be HSL.
 
     --border: 223 25% 92%;
     --input: 223 25% 96%;
-    --ring: 223 87% 45%;
+    --ring: 142 82% 50%;
 
     /* Custom Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(223 87% 25%), hsl(223 87% 45%));
-    --gradient-hero: linear-gradient(135deg, hsl(223 87% 25%), hsl(223 87% 35%), hsl(45 93% 58%));
-    --gradient-card: linear-gradient(135deg, hsl(0 0% 100%), hsl(223 25% 98%));
-    --gradient-accent: linear-gradient(135deg, hsl(45 93% 95%), hsl(223 25% 96%));
+    --gradient-primary: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 82% 50%));
+    --gradient-hero: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 76% 46%), hsl(45 93% 58%));
+    --gradient-card: linear-gradient(135deg, hsl(0 0% 100%), hsl(142 25% 98%));
+    --gradient-accent: linear-gradient(135deg, hsl(45 93% 95%), hsl(142 25% 96%));
     
     /* Shadows */
-    --shadow-elegant: 0 10px 30px -10px hsl(223 87% 25% / 0.15);
-    --shadow-glow: 0 0 40px hsl(223 87% 45% / 0.2);
-    --shadow-card: 0 4px 20px -4px hsl(223 25% 50% / 0.1);
+    --shadow-elegant: 0 10px 30px -10px hsl(142 76% 36% / 0.15);
+    --shadow-glow: 0 0 40px hsl(142 82% 50% / 0.2);
+    --shadow-card: 0 4px 20px -4px hsl(142 25% 50% / 0.1);
     
     /* Animations */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
